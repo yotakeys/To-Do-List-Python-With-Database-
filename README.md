@@ -4,6 +4,7 @@ By Me
 
 !Dont forget to install rich (for designing interface)
 Iam using auto-py-to-exe for converting python project to .exe, you can install it too.
+Btw I am using Canva for designing the icon (Just a checklist pic :v)
 
 This is some pic of To-Do-List:
 
